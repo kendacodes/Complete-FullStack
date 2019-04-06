@@ -1,4 +1,4 @@
 
 Bey Hive
 
-![alt](../public/img/beyhive.gif)
+![alt](../public/img/bey.jpg)
